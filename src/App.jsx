@@ -9,7 +9,7 @@ function App() {
   }
 
   const gotoWhatsapp = () => {
-    window.open("https://api.whatsapp.com/send?phone=573014584254&text=Hola%2C%20quisiera%20informaci%C3%B3n%20sobre%20el%20TIBUR%C3%93N%20DE%20CONTROL%20REMOTO", "_blank");
+    window.open("https://api.whatsapp.com/send?phone=573185859107&text=Hola%2C%20quisiera%20informaci%C3%B3n%20sobre%20el%20TIBUR%C3%93N%20DE%20CONTROL%20REMOTO", "_blank");
   }
 
   return (
